@@ -37,10 +37,10 @@ A API ficará disponível em **http://localhost:3000**.
 ## 📂 Estrutura do Projeto
 
 ```
-Voting/
+votacao-react/
+ ├── apresectacao/     # Vídeo de apresentação do projeto
  ├── contracts/        # Contratos Solidity (Voting.sol)
  ├── voting-api/       # API Node.js para interagir com o contrato
- ├── artifacts/        # ABI e bytecode gerados após compilação
  └── README.md         # Documentação
 ```
 
