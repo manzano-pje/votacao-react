@@ -5,6 +5,13 @@
 Este projeto é um sistema de votação **descentralizado**, simples e seguro, desenvolvido em **Solidity**.  
 Ele demonstra um fluxo completo de eleição, desde o cadastro de candidatos até a divulgação do vencedor, garantindo **transparência e imutabilidade** através da tecnologia **blockchain**.
 
+
+## 🎥 Project Demo
+
+Uma demonstração em vídeo
+Uma demonstração em vídeo mostrando a implantação do contrato inteligente, a integração da API e o processo de votação está disponível aqui:
+👉 [Assista ao Vídeo](./apresentacao/voting-demo.mp4)
+
 ## ⚡ Funcionalidades
 - **Cadastro de Candidatos:** O dono do contrato pode cadastrar novos candidatos, associando um nome a cada um.  
 - **Votação:** Os eleitores interagem com o contrato para registrar seu voto. O sistema garante que cada eleitor só vote uma vez.  
