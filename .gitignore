@@ -29,6 +29,8 @@ cache/*
 out/*
 script/*
 *.env
+.gitignore
+.gitmodules
 
 
 
