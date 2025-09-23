@@ -10,7 +10,7 @@ Ele demonstra um fluxo completo de eleição, desde o cadastro de candidatos at�
 
 Uma demonstração em vídeo
 Uma demonstração em vídeo mostrando a implantação do contrato inteligente, a integração da API e o processo de votação está disponível aqui:
-👉 [Assista ao Vídeo](./apresentacao/voting-demo.mp4)
+👉 [Assista ao Vídeo](./apresentacao/Smart-Contract-Paulo.mp4)
 
 ## ⚡ Funcionalidades
 - **Cadastro de Candidatos:** O dono do contrato pode cadastrar novos candidatos, associando um nome a cada um.  
